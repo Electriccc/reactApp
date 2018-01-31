@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import RandColor from './RandColor.js'
+import RandColor from './RandColor.js';
+import Input from './RandColor.js';
 
 class App extends Component {
   render() {
